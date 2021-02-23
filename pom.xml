@@ -188,9 +188,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/nikosgram/Gringotts</url>
-        <connection>scm:git:git@github.com:nikosgram/Gringotts.git</connection>
-        <developerConnection>scm:git:git@github.com:nikosgram/Gringotts.git</developerConnection>
+        <url>https://github.com/Riteo/Gringotts</url>
+        <connection>scm:git:git@github.com:Riteo/Gringotts.git</connection>
+        <developerConnection>scm:git:git@github.com:Riteo/Gringotts.git</developerConnection>
     </scm>
 
     <issueManagement>
